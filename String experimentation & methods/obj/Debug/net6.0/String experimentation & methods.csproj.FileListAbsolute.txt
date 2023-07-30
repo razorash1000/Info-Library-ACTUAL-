@@ -1,0 +1,15 @@
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\bin\Debug\net6.0\String experimentation & methods.exe
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\bin\Debug\net6.0\String experimentation & methods.deps.json
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\bin\Debug\net6.0\String experimentation & methods.runtimeconfig.json
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\bin\Debug\net6.0\String experimentation & methods.dll
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\bin\Debug\net6.0\String experimentation & methods.pdb
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\obj\Debug\net6.0\String experimentation & methods.csproj.AssemblyReference.cache
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\obj\Debug\net6.0\String experimentation & methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\obj\Debug\net6.0\String experimentation & methods.AssemblyInfoInputs.cache
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\obj\Debug\net6.0\String experimentation & methods.AssemblyInfo.cs
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\obj\Debug\net6.0\String experimentation & methods.csproj.CoreCompileInputs.cache
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\obj\Debug\net6.0\String experimentation & methods.dll
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\obj\Debug\net6.0\refint\String experimentation & methods.dll
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\obj\Debug\net6.0\String experimentation & methods.pdb
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\obj\Debug\net6.0\String experimentation & methods.genruntimeconfig.cache
+C:\Users\razor\source\repos\String experimentation & methods\String experimentation & methods\obj\Debug\net6.0\ref\String experimentation & methods.dll
